@@ -1,0 +1,32 @@
+.header{
+    background-color: rgb(226, 95, 34);
+    display: flex;
+    position: fixed;
+    align-items: center;
+    width: 100vw;
+    height: 7vh;
+}
+.intArt{
+    margin-left: 20vw;
+    font-style: italic;
+    margin-right: 10vw;
+}
+.elementsDiv{
+    display: flex;
+    align-items: center;
+    width: 35vw;
+}
+.element{
+    
+    margin-left: 5vw;
+}
+.usrImg{
+    margin-left: 5vw;
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    margin-top: 0,5vh;
+    align-self: center;
+    border: 2px solid;
+    border-color: bisque;
+}

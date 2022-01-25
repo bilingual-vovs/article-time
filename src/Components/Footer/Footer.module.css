@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(221, 121, 0);
+    border-radius: 1000px 1000px 0px 0px;
+    position: absolute;
+    top: 80vh;
+    width: 100vw;
+    height: 20vh
+}
+.footerH{
+    text-align: center;
+    font-size: 100px;
+    font-family: monospace;
+}
